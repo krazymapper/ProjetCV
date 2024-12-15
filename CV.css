@@ -1,0 +1,59 @@
+/* Style CSS pour le CV */
+
+/* Style général du corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Conteneur principal du CV */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Titres principaux */
+h1, h2 {
+    color: #2C3E50;
+}
+
+/* Titres secondaires */
+h3 {
+    color: #2980B9;
+}
+
+/* Section pour chaque partie du CV */
+.section {
+    margin-bottom: 20px;
+}
+
+/* Liste sans puces */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Style des éléments de la liste */
+li {
+    margin: 8px 0;
+}
+
+/* Section des informations de contact, compétences, etc. */
+.contact-info, .skills, .education, .experience, .languages, .references {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #777;
+}
