@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Les meilleurs plats du Bénin</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+  <header>
+    <h1>Les meilleurs plats du Bénin</h1>
+  </header>
+
+  <!-- Barre de navigation -->
+  <nav>
+    <ul>
+      <li><a href="#accueil">Accueil</a></li>
+      <li><a href="#a-propos">À propos</a></li>
+      <li><a href="#expositions">Expositions</a></li>
+      <li><a href="#vernissage">Vernissage</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section class="gallery">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Plat_de_Man_Tindjan_au_B%C3%A9nin.jpg" alt="Œuvre 1" class="art-piece">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kom_du_B%C3%A9nin.jpg/640px-Kom_du_B%C3%A9nin.jpg" alt="Œuvre 2" class="art-piece">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WikiConvention_francophone_2023_by_Saliousoft_131.jpg/1600px-WikiConvention_francophone_2023_by_Saliousoft_131.jpg?20231224140242" alt="Œuvre 3" class="art-piece">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arts_culinaire_du_B%C3%A9nin_-_Les_plats_de_la_cuisine_b%C3%A9ninoise_33.jpg/1600px-Arts_culinaire_du_B%C3%A9nin_-_Les_plats_de_la_cuisine_b%C3%A9ninoise_33.jpg?20240330121409" alt="Œuvre 4" class="art-piece">
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Galerie d'Art</p>
+  </footer>
+</body>
+</html>
